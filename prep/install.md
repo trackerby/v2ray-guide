@@ -33,6 +33,13 @@ Sun 22 Jan 16:16:23 GMT 2017
 
 ## 服务器安装
 
+### 修改2022.5.20
+- https://github.com/v2fly/fhs-install-v2ray
+```
+// 安裝執行檔和 .dat 資料檔
+# bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+```
+
 ### 脚本安装
 
 在 Linux 操作系统， V2Ray 的安装有脚本安装、手动安装、编译安装 3 种方式，选择其中一种即可，本指南仅提供使用使用脚本安装的方法，并仅推荐使用脚本安装，该脚本由 V2Ray 官方提供。该脚本仅可以在 Debian 系列或者支持 Systemd 的 Linux 操作系统使用。
