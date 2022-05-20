@@ -49,6 +49,11 @@ An unified platform for anti-censorship.
 Configuration OK.
 ```
 
+centos记得开放防火墙端口
+```
+ firewall-cmd --permanent --add-port=3690/tcp
+```
+
 ## 配置
 
 以下给出了 VMess 的配置文件，包含客户端和服务器端，将你的配置替换成下面给出的配置，然后将服务器地址修改成你的就可以正常使用。修改完配置之后要重启 V2Ray 才能使用新配置生效。
