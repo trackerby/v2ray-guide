@@ -48,6 +48,11 @@
 
 #### Nginx 配置
 
+安装nginx
+```
+https://nginx.org/en/linux_packages.html#RHEL-CentOS
+```
+
 配置中使用的是域名和证书使用 TLS 小节的举例，请替换成自己的。
 
 ```
