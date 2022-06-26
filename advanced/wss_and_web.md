@@ -48,7 +48,7 @@
 
 #### Nginx 配置
 
-安装nginx
+安装nginx-2022.06.22
 ```
 https://nginx.org/en/linux_packages.html#RHEL-CentOS
 ```
